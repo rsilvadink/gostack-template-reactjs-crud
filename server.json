@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "Pizza",
+      "name": "Teste",
+      "price": "20,00",
+      "description": "Moda da casaw",
+      "available": true,
+      "id": 4
     }
   ]
 }
